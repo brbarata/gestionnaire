@@ -1,0 +1,18 @@
+<form>
+	<div class="form-group">
+		<label for="nome">Expressão</label> 
+		<input type="text" class="form-control input-sm" id="nome" placeholder="Expressão..." ng-model="carro.nome">
+	</div>
+	<div class="form-group">
+		<label for="nome">Descricão:</label> 
+	
+	<button type="submit" class="btn btn-primary" 
+		data-ng-click="salvar(carro, files[0]); progress = !progress" 
+		show = !show" ng-disabled="progress">
+		<span data-ng-show="progress"  
+		class="glyphicon glyphicon-refresh glyphicon-refresh-animate"></span>
+		<span ng-show="!progressFoto">Confirmar</span>
+		<span ng-show="progressFoto">Fazendo upload da foto aguarde...</span>
+	</button>
+	<button type="submit" class="btn btn-danger" data-ng-click="closeThisDialog()" ng-disabled="progress">Cancelar</button>
+</form>

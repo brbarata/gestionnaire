@@ -1,0 +1,17 @@
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/domain/ExpressionDAO.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/domain/Response.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/domain/PhraseDAO.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/domain/ListaExpressions.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/rest/PhraseResource.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/domain/Phrase.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/domain/BaseDAO.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/rest/HelloResource.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/rest/ExpressionResource.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/domain/UploadService.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/rest/MyApplication.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/domain/PhraseService.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/domain/ExpressionService.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/rest/GsonMessageBodyHandler.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/domain/HibernateDAO.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/domain/Expression.java
+/home/chambinho/workspace/gest/src/main/java/br/com/gestionnaire/domain/ListaPhrases.java
