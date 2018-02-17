@@ -1,0 +1,17 @@
+br/com/gestionnaire/domain/ListaExpressions.class
+br/com/gestionnaire/domain/Phrase.class
+br/com/gestionnaire/domain/ListaPhrases.class
+br/com/gestionnaire/domain/ExpressionService.class
+br/com/gestionnaire/domain/PhraseDAO.class
+br/com/gestionnaire/rest/ExpressionResource.class
+br/com/gestionnaire/rest/MyApplication.class
+br/com/gestionnaire/domain/Response.class
+br/com/gestionnaire/domain/PhraseService.class
+br/com/gestionnaire/rest/PhraseResource.class
+br/com/gestionnaire/rest/HelloResource.class
+br/com/gestionnaire/domain/Expression.class
+br/com/gestionnaire/domain/ExpressionDAO.class
+br/com/gestionnaire/rest/GsonMessageBodyHandler.class
+br/com/gestionnaire/domain/UploadService.class
+br/com/gestionnaire/domain/HibernateDAO.class
+br/com/gestionnaire/domain/BaseDAO.class
